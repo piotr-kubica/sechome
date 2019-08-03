@@ -1,4 +1,6 @@
-There is no documentation for this project. It's been tested ("look ma no tests!" Driven Development) only manualy. To understand how this system works you need to **read the code** (written to just work).
+<p align="center">
+  <img src="rpi0w-sechome.jpg" width="450" title="rpi0w wiring">
+</p>
 
 # Installation 
 
@@ -37,3 +39,6 @@ It is recommended to create a dedcated email account for the notifications (you 
 * prettify Wifi logs
 * remote (dropbox hosted) system arming config
 * atomatic tests
+
+NOTE:
+There is no documentation for this project. It's been tested only manualy. To understand how this system works you need to **read the code** (written to just work).
