@@ -39,5 +39,6 @@ NOTE using "python3.6" command istead of "python3" did not work.
 * remote (dropbox hosted) system arming config
 * atomatic tests
 
-NOTE:
-There is no documentation for this project. It's been tested only manualy. To understand how this system works you need to **read the code** (written to just work).
+
+**NOTE:**
+There is no detailed documentation for this project. It's been tested only manualy. To understand how this system works you need to **read the code** (written to just work).
