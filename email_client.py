@@ -41,7 +41,3 @@ def send_email(gmail_user, gmail_pass, msg, retry=100, retry_sleep=30, timeout=1
             time.sleep(retry_sleep)
         else:
             retry = 0
-        
-
-# if __name__ == "__main__":
-#     send_email('sechome.piku@gmail.com', "bad password", "example")
